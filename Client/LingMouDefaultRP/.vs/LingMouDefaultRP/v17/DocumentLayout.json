@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\assets\\myprojectfile\\scripts\\gazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|solutionrelative:assets\\myprojectfile\\scripts\\gazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|c:\\users\\lrb\\unityproject\\test\\lingmoudefaultrp\\assets\\myprojectfile\\scripts\\robotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|solutionrelative:assets\\myprojectfile\\scripts\\robotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\assets\\myprojectfile\\scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|solutionrelative:assets\\myprojectfile\\scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\assets\\myprojectfile\\scripts\\testanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA4005D-0634-ED0F-E4CE-FA95367BF45F}|Assembly-CSharp.csproj|solutionrelative:assets\\myprojectfile\\scripts\\testanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyProjectFile\\Scripts\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\MyProjectFile\\Scripts\\NetworkManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:04:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GazeManager.cs",
+              "DocumentMoniker": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\GazeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyProjectFile\\Scripts\\GazeManager.cs",
+              "ToolTip": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\GazeManager.cs",
+              "RelativeToolTip": "Assets\\MyProjectFile\\Scripts\\GazeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:55:47.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotController.cs",
+              "DocumentMoniker": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\RobotController.cs",
+              "RelativeDocumentMoniker": "Assets\\MyProjectFile\\Scripts\\RobotController.cs",
+              "ToolTip": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\RobotController.cs",
+              "RelativeToolTip": "Assets\\MyProjectFile\\Scripts\\RobotController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAABIwHsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:34:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\TestAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\MyProjectFile\\Scripts\\TestAnimation.cs",
+              "ToolTip": "C:\\Users\\LRB\\UnityProject\\Test\\LingMouDefaultRP\\Assets\\MyProjectFile\\Scripts\\TestAnimation.cs",
+              "RelativeToolTip": "Assets\\MyProjectFile\\Scripts\\TestAnimation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:29:09.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
